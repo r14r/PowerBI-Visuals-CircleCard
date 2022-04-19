@@ -1,0 +1,25 @@
+{
+	"visual": {
+		"name": "circleCard",
+		"displayName": "CircleCard",
+		"guid": "circleCardCDAA23B3E4074D9B880027A541FC737E",
+		"visualClassName": "Visual",
+		"version": "1.0.0",
+		"description": "",
+		"supportUrl": "https://github.com/r14r/PowerBI-Visuals-CircleCard",
+		"gitHubUrl": "https://github.com/r14r/PowerBI-Visuals-CircleCard"
+	},
+	"apiVersion": "3.8.0",
+	"author": {
+		"name": "",
+		"email": ""
+	},
+	"assets": {
+		"icon": "assets/icon.png"
+	},
+	"externalJS": null,
+	"style": "style/visual.less",
+	"capabilities": "capabilities.json",
+	"dependencies": null,
+	"stringResources": []
+}
